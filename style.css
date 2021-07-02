@@ -155,7 +155,9 @@ input[type=submit] {
 }
 
 input[type=submit]:hover {
-  background-color:#b30000;
+  background-color:lavender;
+  color: black;
+  transition: 0.7s;
 }
 
 div {
@@ -163,4 +165,5 @@ div {
   background-color:transparent;
   padding: 20px;
 }
+   
    
