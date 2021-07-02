@@ -145,8 +145,8 @@ input[type=text], select {
 
 input[type=submit] {
   width: 100%;
-  background-color: transparent;
-  color: transparent;
+  background-color: #b30000;
+  color: #fff;
   padding: 14px 20px;
   margin: 8px 0;
   border: none;
@@ -155,7 +155,7 @@ input[type=submit] {
 }
 
 input[type=submit]:hover {
-  background-color:transparent;
+  background-color:#b30000;
 }
 
 div {
