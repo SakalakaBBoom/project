@@ -95,24 +95,23 @@ ul li a:hover{
     transition: 0.6s;
     
 }
-ul li a, .Nature {
+li a, .dropbtn {
   display: inline-block;
   color: white;
   text-align: center;
   padding: 14px 16px;
   text-decoration: none;
 }
-ul li a:hover, .Nature .Nature {
+
+li a:hover, .dropdown:hover .dropbtn {
   background-color: red;
 }
-ul li a:hover, .Nature:hover .Nature {
-  background-color: red;
-}
-ul li.Nature {
+
+li.dropdown {
   display: inline-block;
 }
 
-.Nature {
+.dropdown-content {
   display: none;
   position: absolute;
   background-color: #f9f9f9;
@@ -121,7 +120,7 @@ ul li.Nature {
   z-index: 1;
 }
 
-.Nature a {
+.dropdown-content a {
   color: black;
   padding: 12px 16px;
   text-decoration: none;
@@ -129,10 +128,9 @@ ul li.Nature {
   text-align: left;
 }
 
-.Nature a:hover {background-color: #f1f1f1;}
+.dropdown-content a:hover {background-color: #f1f1f1;}
 
-.Nature .dropdown-content {
+.dropdown:hover .dropdown-content {
   display: block;
 }
-
    
