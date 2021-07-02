@@ -95,7 +95,7 @@ ul li a:hover{
     transition: 0.6s;
     
 }
-li a, .dropbtn {
+ul li a, .dropbtn {
   display: inline-block;
   color: white;
   text-align: center;
@@ -103,11 +103,11 @@ li a, .dropbtn {
   text-decoration: none;
 }
 
-li a:hover, .dropdown:hover .dropbtn {
+ul li a:hover, .dropdown:hover .dropbtn {
   background-color: red;
 }
 
-li.dropdown {
+ul li.dropdown {
   display: inline-block;
 }
 
