@@ -283,3 +283,37 @@ ul li.dropdown3 {
 .dropdown3:hover .dropdown-content3 {
   display: block;
 }
+body {
+    background-image: url("OIP");
+    background-size: cover;
+  }
+
+
+body { 
+  color: rgb(14, 2, 2); 
+}
+
+    div.gallery {
+      margin: 5px;
+      border: 1px solid #ccc;
+      float: bottom ;
+      width: 180px;
+    }
+    
+    div.gallery:hover {
+      border: 1px solid #777;
+    }
+    
+    div.gallery img {
+        vertical-align: middle;
+    }
+    
+    div.desc {
+      padding: 15px;
+      text-align: center;
+    }
+    div.center {
+  text-align: center;
+  border: 10px solid rgb(0, 8, 0);
+  display:f;
+}
