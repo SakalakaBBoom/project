@@ -1,6 +1,6 @@
 body {
     background-image: url("sunset.jpg");
-    background-size: cover;
+    background-color: black;
   }
 
 
@@ -290,7 +290,7 @@ body {
 
 
 body { 
-  color: rgb(14, 2, 2); 
+  color:black ; 
 }
 
     div.gallery {
