@@ -31,16 +31,15 @@ font-size: 90px;
     text-decoration: thistle;
 }
 
-.PHOTOGRAPHY {
-    background-color:#666666;
-    border-radius: 15px 50px;
-    padding: 17px;
-}
 span{
 font-size: 60px;
     color: lavender;
 }
 .PHOTOGRAPHY {
+    border: 5px solid #0099cc;
+    border-radius: 15px 50px;
+    font-size: 80px;
+    padding: 17px;
   margin: 0;
   padding: 0;
 }
@@ -48,7 +47,6 @@ font-size: 60px;
 p {
   font-weight: 700;
   text-align: center;
-  font-size: 40px;
   font-family: Hack, sans-serif;
   text-transform: uppercase;
   background: linear-gradient(90deg, #000, #fff, #000);
