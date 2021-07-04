@@ -309,6 +309,8 @@ ul li.dropdown3 {
       border: 1px solid #ccc;
       float: bottom ;
       width: 180px;
+      color : white;
+      font-family: 'Merienda';font-size: 22px;
     }
     
     div.gallery:hover {
