@@ -490,8 +490,8 @@ div {
 .centerdiv{
     height: 17vh;
     display: flex;
-    justify-content: center;
-    align-items: center;
+    justify-content: right;
+    align-items: right;
 }
 .centerdiv a{
     height: 100px;
