@@ -493,7 +493,7 @@ div {
     justify-content: center;
     align-items: center;
 }
-a{
+.centerdiv a{
     height: 100px;
     width: 100px;
     background-color: #f5f6fa;
@@ -504,10 +504,10 @@ a{
     box-shadow: 1px 4px 2px 2px #dcdde1;
 
 }
-a i{
+.centerdiv a i{
 transition: all 0.3s linear;
 }
-a:hover i{
+.centerdiv a:hover i{
 transform: scale(1.4);
 }
 .fa-facebook{color:#3b5998;}
