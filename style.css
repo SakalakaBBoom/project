@@ -389,7 +389,7 @@ body {
 max-height: 350px;
 
 border: 8px solid #800000;
-
+ border-radius: 15px 50px;
 display: flex;
 
 overflow-x: auto;
