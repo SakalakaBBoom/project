@@ -33,7 +33,7 @@ font-size: 90px;
 
 span{
 font-size: 60px;
-    color: lavender;
+    color: #595959;
 }
 .PHOTOGRAPHY {
     background-image: url('sand.jpg');
@@ -42,8 +42,8 @@ font-size: 60px;
     border-radius: 15px 50px;
     font-size: 80px;
     padding: 17px;
-  margin: 0;
-  padding: 0;
+  margin: 20px;
+  padding: 50px;
 }
 
 
