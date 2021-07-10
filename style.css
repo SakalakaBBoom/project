@@ -499,3 +499,10 @@ transform: scale(1.4);
 .fa-whatsapp{color: #00ff00;}
 .fa-send{color: #D44638;}
 p4{color:#000000;}
+
+.flower img{
+   display:block;
+   margin-left:auto;
+   margin-right:auto;
+   width:350px;
+}
