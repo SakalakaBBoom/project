@@ -283,32 +283,7 @@ ul li.dropdown3 {
 }
 
 
-    div.gallery {
-      margin: 5px;
-      border: 1px solid #ccc;
-      float: bottom ;
-      width: 180px;
-      color: #FBFEF9;
-      font-family: 'Merienda';font-size: 22px;
-    }
-    
-    div.gallery:hover {
-      border: 1px solid #777;
-    }
-    
-    div.gallery img {
-        vertical-align: middle;
-    }
-    
-    div.desc {
-      padding: 15px;
-      text-align: center;
-    }
-    div.center {
-  text-align: center;
-  border: 10px solid rgb(0, 8, 0);
-  display:f;
-}
+   
 .dropdown4 {
   position: relative;
   display: inline-block;
