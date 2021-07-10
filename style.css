@@ -1,6 +1,7 @@
 body {
-    background-image: url("wood.jpg");
-    background-size:1920px 1027px;
+   background-image: url("camera.jpg"), linear-gradient(to right, #ff6e7f, #bfe9ff);
+    background-size:1920px 990px;
+    background-repeat:no-repeat, repeat;
   }
 
 
