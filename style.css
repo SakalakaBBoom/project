@@ -477,13 +477,13 @@ div {
     align-items: right;
 }
 .centerdiv a{
-    height: 100px;
-    width: 100px;
-    background-color: #f5f6fa;
+    height: 58px;
+    width: 58px;
+    background-color: lavender;
     border-radius: 50px;
     text-align: center;
     margin: 10px;
-    line-height: 110px;
+    line-height: 100px;
     box-shadow: 1px 4px 2px 2px #dcdde1;
 
 }
