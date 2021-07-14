@@ -227,8 +227,8 @@ input[type=submit] {
 }
 
 input[type=submit]:hover {
-  background-color: #ffff00;
-  color: #000000;
+  background-color: #ff3333;
+  color: #fff;
   transition: 0.8s;
 }
 
