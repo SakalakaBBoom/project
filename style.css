@@ -453,6 +453,7 @@ p4{color:#000000;}
 	background-image:linear-gradient(to right, #2980b9 ,#6dd5fa, #ffffff);
 	border: 10px solid #c6ffdd;
 	border-radius: 15px;
+	margin:30px ;
   display: -ms-flexbox;
   display: flex;
   -ms-flex-wrap: wrap; 
