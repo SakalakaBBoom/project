@@ -450,7 +450,7 @@ p4{color:#000000;}
   background-image: linear-gradient(to right,#00cccc , #ccffff);
 }
 .row1 {
-	background-image:linear-gradient(to right, #2980b9 ,#6dd5fa, #ffffff);
+	background-image:linear-gradient(to right,#6dd5fa, #cef1fd);
 	border: 10px solid #c6ffdd;
 	border-radius: 15px;
 	margin:30px ;
