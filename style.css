@@ -106,9 +106,6 @@ ul li a:hover, .dropdown:hover .dropbtn {
   background-color: red;
 }
 
-ul li.dropdown {
-  display: inline-block;
-}
 
 .dropdown-content {
   display: none;
@@ -372,9 +369,7 @@ p12{
 p13{
     color:#000000;
 }
-ul li.dropdown5 {
-  display: inline-block;
-}
+
 
 .dropdown-content5 {
   display: none;
