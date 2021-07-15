@@ -375,8 +375,9 @@ p12{
 p13{
     color:#000000;
 }
-
-
+ul li.dropdown5 {
+  display: inline-block;
+}
 .dropdown-content5 {
   display: none;
   position: absolute;
@@ -385,9 +386,15 @@ p13{
   box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
   z-index: 1;
 }
-
-.dropdown:hover .dropdown-content5 
-{
+.dropdown-content5 a {
+  color: white;
+  padding: 12px 16px;
+  text-decoration: none;
+  display: block;
+  text-align: left;
+}
+.dropdown-content5 a:hover {background-color: #f1f1f1;}
+.dropdown5:hover .dropdown-content5 {
   display: block;
 }
 
